@@ -1,0 +1,27 @@
+AI Learning Plan:
+1. Introduction to AI
+   - History and applications
+   - Overview of AI fields
+2. Mathematics for AI
+   - Linear algebra
+   - Calculus
+   - Probability and statistics
+3. Machine Learning
+   - Supervised learning
+   - Unsupervised learning
+   - Reinforcement learning
+4. Deep Learning
+   - Neural networks basics
+   - Convolutional Neural Networks
+   - Recurrent Neural Networks
+5. Natural Language Processing
+   - Text processing techniques
+   - Language models
+6. AI Ethics and Safety
+   - Bias in AI
+   - Ethical AI development
+7. Practical Projects
+   - Implement small AI projects
+   - Use popular AI frameworks (TensorFlow, PyTorch)
+
+This plan provides a comprehensive pathway to learn AI effectively.
